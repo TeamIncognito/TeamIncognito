@@ -1,6 +1,8 @@
-- 👋 Hi, We are @TeamIncognito
--  Founder @KOKADWARAkshay @amaanalikhan3000 @AnkitaSinghIE
-- 
+# 👋 Hi, We are @TeamIncognito
+## Founder 
+-  @KOKADWARAkshay 
+-  @amaanalikhan3000
+-  @AnkitaSinghIE
 
 <!---
 TeamIncognito/TeamIncognito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
